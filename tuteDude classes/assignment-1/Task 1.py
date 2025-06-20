@@ -3,7 +3,8 @@
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 
-# Perform basic operations
+# Perform basic mathematical operationson these two numbers
+
 
 addition = num1 + num2
 subtraction = num1 - num2

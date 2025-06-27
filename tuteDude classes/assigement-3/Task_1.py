@@ -4,5 +4,5 @@ def factorial(n):
         result = i * result
     return result    
 
-number = 5
+number = 5  
 print("Factorial of", number, "is :", factorial(number))

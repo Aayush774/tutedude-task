@@ -4,6 +4,7 @@ file.write(data1)
 print("Data successfully written to output.txt.\n")
 file.close()
 
+
 data2 = input("Enter additional text to append:")
 file = open("Output.txt",'a')
 file.write("\n")
